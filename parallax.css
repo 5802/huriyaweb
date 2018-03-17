@@ -1,0 +1,39 @@
+.parallax
+{
+    background-image: url(bike.jpg);
+    min-height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.free{  
+    text-align: center;
+    font-size: 40px;
+}
+.newimage
+{
+    background-image: url(beach.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+.nextimage
+{
+    background-image: url(jobfair.png);     
+    min-height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; 
+}
+
+.text
+{
+    text-align: center;
+    font-style: italic;
+    padding: 50px 20px;
+    background-color: rgb(134, 210, 235);
+}
